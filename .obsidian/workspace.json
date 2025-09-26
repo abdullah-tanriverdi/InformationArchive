@@ -11,10 +11,14 @@
             "id": "f0c0e3fb2c0ba05d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bilgi Arşivi/Kitap/001 -Bir İdam Mahkumunun Son Günü.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001 -Bir İdam Mahkumunun Son Günü"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bilgi Arşivi/Kitap/001 -Bir İdam Mahkumunun Son Günü.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 001 -Bir İdam Mahkumunun Son Günü"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bilgi Arşivi/Kitap/001 -Bir İdam Mahkumunun Son Günü.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 001 -Bir İdam Mahkumunun Son Günü"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bilgi Arşivi/Kitap/001 -Bir İdam Mahkumunun Son Günü.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 001 -Bir İdam Mahkumunun Son Günü"
             }
           }
         ]
@@ -163,5 +170,12 @@
     }
   },
   "active": "f0c0e3fb2c0ba05d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Bilgi Arşivi/Kitap/001 -Bir İdam Mahkumunun Son Günü.md",
+    "Bilgi Arşivi/Kitap",
+    "Bilgi Arşivi/Yeni klasör",
+    "Bilgi Arşivi",
+    "Arşiv",
+    "Yeni klasör"
+  ]
 }
